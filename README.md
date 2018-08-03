@@ -1,5 +1,7 @@
 # ColorSpace
 
+[![Build status](https://ci.appveyor.com/api/projects/status/f7a27ff1xium6w5i?svg=true)](https://ci.appveyor.com/project/warrengalyen/colorspace/branch/master)
+
 C++ library for converting between color spaces and comparing colors.
 
 ## Color Conversion
